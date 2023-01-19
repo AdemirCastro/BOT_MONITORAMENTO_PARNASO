@@ -18,12 +18,6 @@ As variáveis são:
 - SENHA: senha para login por aplicações na conta de emails utilizada.  
 - REMETENTE: nome do remetente que aparecerá no email enviado.  
 - DESTINATARIOS: emails dos destinatários separados por vírgulas em uma string.  
-=======
-- LOGIN: loging do usuário em um serviço de emails
-- SENHA: senha para login por aplicações na conta de emails utilizada
-- REMETENTE: nome do remetente que aparecerá no email enviado
-- DESTINATARIOS: emails dos destinatários separados por vírgulas em uma string.
->>>>>>> 1bbbe9cec62730a07db7004eef32246dcab3945f
 ## Execution
 O arquivo [/src/monitoramento.py]() contém todas as funções do projeto, e também faz o monitoramento quando é executado pela main.  
 ## License
