@@ -13,7 +13,7 @@ na pasta do projeto.
 ## Configuration
 As configurações do email do email são feitas através do arquivo [/config/config_file.env]().  
 As variáveis são:  
-- LOGIN: loging do usuário em um serviço de emails
+- LOGIN: login do usuário em um serviço de emails
 - SENHA: senha para login por aplicações na conta de emails utilizada
 - REMETENTE: nome do remetente que aparecerá no email enviado
 - DESTINATARIOS: emails dos destinatários separados por vírgulas em uma string.
