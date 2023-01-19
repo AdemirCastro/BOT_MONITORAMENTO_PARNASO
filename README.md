@@ -13,10 +13,10 @@ na pasta do projeto.
 ## Configuration
 As configurações do email do email são feitas através do arquivo [/config/config_file.env]().  
 As variáveis são:  
-- LOGIN: login do usuário em um serviço de emails
-- SENHA: senha para login por aplicações na conta de emails utilizada
-- REMETENTE: nome do remetente que aparecerá no email enviado
-- DESTINATARIOS: emails dos destinatários separados por vírgulas em uma string.
+- LOGIN: login do usuário em um serviço de emails.  
+- SENHA: senha para login por aplicações na conta de emails utilizada.  
+- REMETENTE: nome do remetente que aparecerá no email enviado.  
+- DESTINATARIOS: emails dos destinatários separados por vírgulas em uma string.  
 ## Execution
 O arquivo [/src/monitoramento.py]() contém todas as funções do projeto, e também faz o monitoramento quando é executado pela main.  
 ## License
