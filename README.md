@@ -1,6 +1,6 @@
 
 # BOT DE MONITORAMENTO DO AGENDAMENTO NO PARNASO
-Esse programa monitora o site do PARNASO e envia um email quando surge um novo post sobre agnedamentos.
+Esse programa monitora o site do PARNASO e envia um email quando surge um novo post sobre agendamentos.
 
 
 ## Requisitos
